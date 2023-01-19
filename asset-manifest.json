@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sumit11111/tool_tip/static/css/main.4688a644.css",
+    "main.js": "/Sumit11111/tool_tip/static/js/main.3b352cfc.js",
+    "index.html": "/Sumit11111/tool_tip/index.html",
+    "main.4688a644.css.map": "/Sumit11111/tool_tip/static/css/main.4688a644.css.map",
+    "main.3b352cfc.js.map": "/Sumit11111/tool_tip/static/js/main.3b352cfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4688a644.css",
+    "static/js/main.3b352cfc.js"
+  ]
+}
